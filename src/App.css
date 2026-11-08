@@ -1,0 +1,33 @@
+
+.App {
+  text-align: center;
+  padding-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+.App-logo {
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
